@@ -1,0 +1,159 @@
+{
+ "classifier_heldout_accuracy": 0.9124579124579124,
+ "real_heldout": {
+  "confidence": 0.9325459599494934,
+  "class_counts": [
+   24,
+   35,
+   27,
+   21,
+   32,
+   32,
+   31,
+   32,
+   32,
+   31
+  ],
+  "nn_dist_median": 3.2043824195861816,
+  "pixel_mean": -0.3879353404045105,
+  "pixel_std": 0.6522582173347473,
+  "outside_range": 0.0
+ },
+ "real_train": {
+  "confidence": 0.9713140726089478,
+  "class_counts": [
+   31,
+   30,
+   29,
+   29,
+   28,
+   31,
+   29,
+   28,
+   30,
+   32
+  ],
+  "nn_dist_median": 0.0,
+  "pixel_mean": -0.3888362646102905,
+  "pixel_std": 0.6522209644317627,
+  "outside_range": 0.0
+ },
+ "gaussian_noise": {
+  "confidence": 0.6076837182044983,
+  "class_counts": [
+   11,
+   32,
+   44,
+   34,
+   46,
+   35,
+   13,
+   19,
+   28,
+   35
+  ],
+  "nn_dist_median": 15.217381477355957,
+  "pixel_mean": -0.004032828379422426,
+  "pixel_std": 0.7203570604324341,
+  "outside_range": 0.0
+ },
+ "linear_ema_beta": {
+  "confidence": 0.9038639664649963,
+  "class_counts": [
+   26,
+   29,
+   28,
+   30,
+   24,
+   28,
+   35,
+   28,
+   34,
+   35
+  ],
+  "nn_dist_median": 3.3821561336517334,
+  "pixel_mean": -0.38687336444854736,
+  "pixel_std": 0.6331667304039001,
+  "outside_range": 0.0,
+  "sample_seconds": 135.69620490074158
+ },
+ "linear_raw_beta": {
+  "confidence": 0.8912588953971863,
+  "class_counts": [
+   30,
+   24,
+   27,
+   31,
+   17,
+   35,
+   45,
+   24,
+   25,
+   39
+  ],
+  "nn_dist_median": 3.491783380508423,
+  "pixel_mean": -0.41557636857032776,
+  "pixel_std": 0.6060224771499634,
+  "outside_range": 0.0,
+  "sample_seconds": 142.2530927658081
+ },
+ "linear_ema_tilde": {
+  "confidence": 0.9045071005821228,
+  "class_counts": [
+   26,
+   29,
+   28,
+   30,
+   24,
+   27,
+   35,
+   29,
+   34,
+   35
+  ],
+  "nn_dist_median": 3.360365152359009,
+  "pixel_mean": -0.38680315017700195,
+  "pixel_std": 0.6345236897468567,
+  "outside_range": 0.0,
+  "sample_seconds": 138.79008603096008
+ },
+ "cosine_ema_beta": {
+  "confidence": 0.9062514305114746,
+  "class_counts": [
+   33,
+   36,
+   34,
+   24,
+   20,
+   25,
+   33,
+   35,
+   26,
+   31
+  ],
+  "nn_dist_median": 3.165034055709839,
+  "pixel_mean": -0.39060625433921814,
+  "pixel_std": 0.6366580724716187,
+  "outside_range": 0.0,
+  "sample_seconds": 130.00063014030457
+ },
+ "untrained_net_linear": {
+  "confidence": 0.7426979541778564,
+  "class_counts": [
+   21,
+   19,
+   52,
+   67,
+   41,
+   37,
+   22,
+   12,
+   10,
+   16
+  ],
+  "nn_dist_median": 17.071626663208008,
+  "pixel_mean": -0.28430166840553284,
+  "pixel_std": 0.9583938717842102,
+  "outside_range": 0.0
+ }
+}

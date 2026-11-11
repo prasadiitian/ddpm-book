@@ -1,0 +1,6 @@
+0.0 {'hit_rate': 0.08666666666666667, 'prob_of_requested_class': 0.08246344327926636, 'nn_dist_median': 4.239202976226807, 'within_class_pairwise': 8.944621467590332, 'pixel_std': 0.6247759461402893, 'pixel_mean': -0.3832961618900299}
+1.0 {'hit_rate': 0.9633333333333334, 'prob_of_requested_class': 0.9383147358894348, 'nn_dist_median': 3.1321256160736084, 'within_class_pairwise': 6.416563320159912, 'pixel_std': 0.628101110458374, 'pixel_mean': -0.3890884518623352}
+2.0 {'hit_rate': 0.9966666666666667, 'prob_of_requested_class': 0.9956568479537964, 'nn_dist_median': 2.6651477813720703, 'within_class_pairwise': 5.364258980751037, 'pixel_std': 0.6492379903793335, 'pixel_mean': -0.37543922662734985}
+4.0 {'hit_rate': 1.0, 'prob_of_requested_class': 0.9994655251502991, 'nn_dist_median': 2.9193620681762695, 'within_class_pairwise': 4.665139150619507, 'pixel_std': 0.6804139018058777, 'pixel_mean': -0.3486824631690979}
+8.0 {'hit_rate': 1.0, 'prob_of_requested_class': 0.9998226165771484, 'nn_dist_median': 3.601409912109375, 'within_class_pairwise': 4.273775315284729, 'pixel_std': 0.7212986350059509, 'pixel_mean': -0.3062996566295624}
+DONE

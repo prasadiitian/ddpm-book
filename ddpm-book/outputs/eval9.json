@@ -1,0 +1,48 @@
+{
+ "trajectory_pixel_std": {
+  "1000": 1.0296911001205444,
+  "800": 1.0228523015975952,
+  "600": 1.0132110118865967,
+  "400": 0.9397392272949219,
+  "200": 0.7558013796806335,
+  "100": 0.6520687937736511,
+  "50": 0.6286425590515137,
+  "0": 0.6123952865600586
+ },
+ "Trained 6000 steps (reference)": {
+  "confidence": 0.9216036796569824,
+  "nn_dist_median": 3.44734263420105,
+  "pixel_mean": -0.3836185932159424,
+  "pixel_std": 0.6385270953178406
+ },
+ "Trained 1500 steps": {
+  "confidence": 0.841699481010437,
+  "nn_dist_median": 4.246638298034668,
+  "pixel_mean": -0.38248711824417114,
+  "pixel_std": 0.6423464417457581
+ },
+ "Trained 300 steps": {
+  "confidence": 0.7442157864570618,
+  "nn_dist_median": 5.342300891876221,
+  "pixel_mean": -0.4116104245185852,
+  "pixel_std": 0.6216347217559814
+ },
+ "Sampled with the cosine schedule (trained with linear)": {
+  "confidence": 0.8558950424194336,
+  "nn_dist_median": 3.871156930923462,
+  "pixel_mean": -0.3183520436286926,
+  "pixel_std": 0.5364192128181458
+ },
+ "No noise added during sampling": {
+  "confidence": 0.9959895014762878,
+  "nn_dist_median": 2.83634090423584,
+  "pixel_mean": -0.37776219844818115,
+  "pixel_std": 0.6174112558364868
+ },
+ "Network given t-1 instead of t": {
+  "confidence": 0.9215148687362671,
+  "nn_dist_median": 3.452943801879883,
+  "pixel_mean": -0.3840869069099426,
+  "pixel_std": 0.6383263468742371
+ }
+}
